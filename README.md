@@ -1,2 +1,3 @@
 # fund_algoritmos
-# curso ccp110 fnd algoritmos
+# *Curso* ccp110 fnd algoritmos
+# (Fei){[https://portal.fei.edu.br/]}
